@@ -56,6 +56,10 @@
 
 *   What's the advantage to use Kotlin on the Android?
 
+*   Using Kotlin in Android - Ivan
+    *   [Slide](https://speakerdeck.com/ivanw/using-kotlin-in-android)
+    *   [Example](https://github.com/ivanisidrowu/TwKotlinStudyGroupExample)
+
 ##  The philosophy of Kotlin
 
 *   What's the philosophy of Kotlin?
