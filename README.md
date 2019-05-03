@@ -4,7 +4,7 @@
 
 | Date | Chapter  | Notes |
 |------|----------|-------|
-|5/3   |Chapter 1 | |
+|5/3   |[Chapter 1](src/ch01/README.md) | |
 |5/10  |Chapter 2 | |
 |5/17  |Chapter 3 | |
 |5/24  |Chapter 4 | |
