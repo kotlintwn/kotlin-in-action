@@ -59,6 +59,10 @@
 *   Using Kotlin in Android - [Ivan Wu](https://github.com/ivanisidrowu)
     *   [Slide](https://speakerdeck.com/ivanw/using-kotlin-in-android)
     *   [Example](https://github.com/ivanisidrowu/TwKotlinStudyGroupExample)
+    
+*   Kotlin在Android中的應用 - [Lutas Lin](https://github.com/lutas2000)
+    *   [Slide](https://www.slideshare.net/LutasLin/kotlinandroid-143375037)
+    *   [Example](https://github.com/lutas2000/Android-Kotlin-Sample)
 
 ##  The philosophy of Kotlin
 
